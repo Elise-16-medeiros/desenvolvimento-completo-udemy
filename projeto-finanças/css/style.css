@@ -1,0 +1,41 @@
+header {
+    background-color: #c9a227;
+}
+
+header .nav-link {
+    color:#8c6330;
+}
+
+#home {
+    background: #dbb42c;
+    color: #fff;
+}
+
+.icons :hover{
+    -webkit-transform: scale(0.8);
+        -ms-transform: scale(0.8);
+        transform: scale(0.8);
+}
+
+
+
+.caixa {
+    padding: 60px 0px;
+    border-bottom: 1px solid #e5e5e5;
+}
+
+footer .nav-link {
+    color: #76520E;
+}
+
+footer .nav-link:hover{
+    color:#c9a227;
+}
+a svg {
+    color:#76520E;
+}
+
+a svg:hover {
+    color: #c9a227;
+}
+
